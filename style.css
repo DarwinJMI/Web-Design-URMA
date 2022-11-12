@@ -1,0 +1,36 @@
+h1{
+ color: rgb(203, 55, 55);
+}
+.t1{
+    color: rgb(55, 167, 70);
+}
+
+.SDV_image{
+height: 15px;
+width: 15px;
+}
+
+.plan ul li{
+    list-style: none;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.plan ul li img{
+    list-style: none;
+    margin: 5px auto;
+   justify-content: baseline;
+}
+
+
+
+.WD_image{
+    height: 15px;
+width: 15px;
+}
+
+.CS_image{
+    height: 15px;
+    width: 15px; 
+}
+
